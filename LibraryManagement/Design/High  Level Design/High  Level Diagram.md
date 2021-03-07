@@ -24,4 +24,4 @@
 - **Borrow Book**: Borrows the book
 - **Payment**: pay for book what he chooses.
 
-![usecase.PNG](Aspose.Words.063b4f5a-2ff6-4521-ba45-bc548b5207f0.001.png)
+![usecase.PNG](Usecase_Diagram.png)
