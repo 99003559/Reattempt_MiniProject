@@ -80,10 +80,11 @@ namespace LibraryManagement
                             }
                             else if (choice == 3)
                             {
+                                Console.WriteLine("Enter Book Id to Delete");
+                                int id = Convert.ToInt32(Console.ReadLine());
                                 foreach (Books item in BookList)
                                 {
-                                    Console.WriteLine("Enter Book Id to Delete");
-                                    int id = Convert.ToInt32(Console.ReadLine());
+                                    
                                     if (id == item.BookId)
                                     {
                                         BookList.Remove(item);
