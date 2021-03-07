@@ -1,0 +1,7 @@
+C:\Users\Onkar\Desktop\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe.config
+C:\Users\Onkar\Desktop\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe
+C:\Users\Onkar\Desktop\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.pdb
+C:\Users\Onkar\Desktop\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csprojAssemblyReference.cache
+C:\Users\Onkar\Desktop\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\Onkar\Desktop\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.exe
+C:\Users\Onkar\Desktop\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.pdb
